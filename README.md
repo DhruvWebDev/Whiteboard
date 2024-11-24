@@ -1,7 +1,7 @@
-# CanvasCraft - Interactive Whiteboard App
+# ChromaCanvas - Interactive Whiteboard App
 
 ## Overview
-CanvasCraft is a modern, interactive whiteboard application built with React and TypeScript. It provides users with a digital canvas for drawing, sketching, and creative expression.
+ChromaCanvas is a modern, interactive whiteboard application built with React and TypeScript. It provides users with a digital canvas for drawing, sketching, and creative expression.
 
 ## Features
 - 🎨 Real-time drawing with adjustable brush sizes
@@ -27,6 +27,6 @@ CanvasCraft is a modern, interactive whiteboard application built with React and
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/canvascraft.git
-cd canvascraft
+git clone https://github.com/DhruvWebDev/Whiteboard.git
+cd Whiteboard
 npm i 
