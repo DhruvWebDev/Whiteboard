@@ -29,3 +29,4 @@ CanvasCraft is a modern, interactive whiteboard application built with React and
 ```bash
 git clone https://github.com/yourusername/canvascraft.git
 cd canvascraft
+npm i 
